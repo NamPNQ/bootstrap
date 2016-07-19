@@ -14,7 +14,5 @@
     "js/tests"
   ],
   "dependencies": { },
-  "devDependencies": {
-    "bootstrap": ">= 3.1.0"
-  }
+  "devDependencies": {}
 }
